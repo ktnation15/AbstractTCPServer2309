@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ServerConfig>
+	<ServerPort>7007</ServerPort>
+	<ShutDownPort>7008</ShutDownPort>
+	<ServerName>MyCustomEchoServer</ServerName>
+	<DebugLevel>info</DebugLevel>
+</ServerConfig>
